@@ -6,5 +6,6 @@ package lesson1.main;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("This is first project on github, i'm so happy ;)");
     }
 }
